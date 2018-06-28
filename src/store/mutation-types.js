@@ -1,0 +1,27 @@
+export const SET_IDLIST = 'SET_IDLIST'
+
+export const SET_POSTER = 'SET_POSTER'
+
+export const SET_HP = 'SET_HP'
+
+export const SET_CLIMATE = 'SET_CLIMATE'
+
+export const SET_NODES = 'SET_NODES'
+
+export const SET_ARTICLE = 'SET_ARTICLE'
+
+export const SET_MOVIES = 'SET_MOVIES'
+
+export const SET_MUSIC = 'SET_MUSIC'
+
+export const SET_READINGDATA = 'SET_READINGDATA'
+
+export const SET_MOVIEDATA = 'SET_MOVIEDATA'
+
+export const SET_MUSICDATA = 'SET_MUSICDATA'
+
+export const SET_MOVIENEXTPAGE = 'SET_MOVIENEXTPAGE'
+
+export const SET_MUSICNEXTPAGE = 'SET_MUSICNEXTPAGE'
+
+export const SET_READINGNEXTPAGE = 'SET_READINGNEXTPAGE'
